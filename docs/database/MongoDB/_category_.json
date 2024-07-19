@@ -1,0 +1,13 @@
+{
+  "label": "MongoDB",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "description": "Content about MongoDB"
+  },
+  "customProps": {
+    "description": "MongoDB records"
+  }
+}

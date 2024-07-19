@@ -1,0 +1,13 @@
+{
+  "label": "Computer Science",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Content about Computer science"
+  },
+  "customProps": {
+    "description": "Computer Science records"
+  }
+}

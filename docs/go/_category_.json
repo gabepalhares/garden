@@ -1,0 +1,14 @@
+{
+    "label": "Go",
+    "collapsible": true,
+    "collapsed": true,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "description": "Content about Go, the programming language"
+    },
+    "customProps": {
+      "description": "Go records"
+    }
+  }
+  

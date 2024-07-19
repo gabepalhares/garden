@@ -1,0 +1,13 @@
+{
+  "label": "Database",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "description": "Content about Database"
+  },
+  "customProps": {
+    "description": "Database records"
+  }
+}

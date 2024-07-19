@@ -1,0 +1,13 @@
+{
+  "label": "Bookshelf",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Content about Books"
+  },
+  "customProps": {
+    "description": "Books documentation"
+  }
+}

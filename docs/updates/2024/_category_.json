@@ -1,0 +1,13 @@
+{
+  "label": "Updates 2024",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Updates 2024 overview"
+  },
+  "customProps": {
+    "description": "Updates 2024 records"
+  }
+}

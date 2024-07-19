@@ -1,0 +1,13 @@
+{
+  "label": "Javascript",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "description": "Content about Javascript"
+  },
+  "customProps": {
+    "description": "Javascript Records"
+  }
+}

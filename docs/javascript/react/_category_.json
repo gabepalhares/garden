@@ -1,0 +1,13 @@
+{
+  "label": "React",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "description": "Content about Reactjs"
+  },
+  "customProps": {
+    "description": "React records"
+  }
+}

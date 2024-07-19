@@ -1,0 +1,13 @@
+{
+  "label": "PostgreSQL",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "description": "Content about PostgreSQL"
+  },
+  "customProps": {
+    "description": "PostgreSQL records"
+  }
+}
