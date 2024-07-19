@@ -11,7 +11,7 @@ tags:
     <img width="250" src="img/gabriel.png" />
 </p>
 
-Hi, I'm [Gabriel Palhares](https://twitter.com/minortypo), welcome to my `digital garden`. I'm a full stack developer and a lifelong computer science student. I always strive to actively engage in the concept of [Learn in Public](https://www.swyx.io/learn-in-public/) by sharing my knowledge with others through articles and code. This webpage is also one of my ways of doing that; `g.arden` was created based on the `Zettelkasten` idea, inspired by [Sibelius](https://twitter.com/sseraphini) and [Biantris](https://twitter.com/biantris_) and their own versions. My aim is to consistently update here with everything I'm studying, learning, and developing.
+Hi, I'm [Gabriel Palhares](https://twitter.com/minortypo), welcome to my `digital garden`. I'm a full stack developer and a lifelong computer science student. You can also find me online using my nickname, `minortypo`, with a Shiba profile picture. `I love Shibas!` I always strive to actively engage in the concept of [Learn in Public](https://www.swyx.io/learn-in-public/) by sharing my knowledge with others through articles and code. This webpage is also one of my ways of doing that; `g.arden` was created based on the `Zettelkasten` idea, inspired by [Sibelius](https://twitter.com/sseraphini) and [Biantris](https://twitter.com/biantris_) and their own versions. My aim is to consistently update here with everything I'm studying, learning, and developing.
 
 #### Linkroll
 - [Webpage](https://gabrielpalhares.dev/)
