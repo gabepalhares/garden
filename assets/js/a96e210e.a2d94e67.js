@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_docs=self.webpackChunkdev_docs||[]).push([[5456],{1946:e=>{e.exports=JSON.parse('{"label":"state","permalink":"/garden/tags/state","allTagsPath":"/garden/tags","count":1,"items":[{"id":"react/react-state","title":"React State","description":"What is React State?","permalink":"/garden/react/react-state"}],"unlisted":false}')}}]);

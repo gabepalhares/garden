@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_docs=self.webpackChunkdev_docs||[]).push([[6727],{8434:e=>{e.exports=JSON.parse('{"label":"props","permalink":"/garden/tags/props","allTagsPath":"/garden/tags","count":1,"items":[{"id":"react/react-props","title":"React Props","description":"What is React props?","permalink":"/garden/react/react-props"}],"unlisted":false}')}}]);
