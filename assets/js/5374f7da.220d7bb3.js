@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_docs=self.webpackChunkdev_docs||[]).push([[5961],{2258:e=>{e.exports=JSON.parse('{"label":"leardership","permalink":"/garden/tags/leardership","allTagsPath":"/garden/tags","count":1,"items":[{"id":"y-career","title":"Y Career","description":"Intro","permalink":"/garden/y-career"}],"unlisted":false}')}}]);

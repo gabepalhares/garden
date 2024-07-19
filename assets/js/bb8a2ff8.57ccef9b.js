@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_docs=self.webpackChunkdev_docs||[]).push([[4117],{1036:e=>{e.exports=JSON.parse('{"title":"Updates Overview","slug":"/category/journal","permalink":"/garden/category/journal","navigation":{"previous":{"title":"Setup","permalink":"/garden/setup"},"next":{"title":"Updates 2024","permalink":"/garden/category/updates-2024"}}}')}}]);

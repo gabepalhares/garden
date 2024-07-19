@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_docs=self.webpackChunkdev_docs||[]).push([[5191],{1431:e=>{e.exports=JSON.parse('{"title":"Content about Books","slug":"/category/bookshelf","permalink":"/garden/category/bookshelf","navigation":{"previous":{"title":"Remarkable Books","permalink":"/garden/books"},"next":{"title":"2024","permalink":"/garden/bookshelf/2024"}}}')}}]);

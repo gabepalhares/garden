@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_docs=self.webpackChunkdev_docs||[]).push([[5105],{2276:e=>{e.exports=JSON.parse('{"label":"specialist","permalink":"/garden/tags/specialist","allTagsPath":"/garden/tags","count":1,"items":[{"id":"y-career","title":"Y Career","description":"Intro","permalink":"/garden/y-career"}],"unlisted":false}')}}]);

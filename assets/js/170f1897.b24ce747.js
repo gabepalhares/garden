@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_docs=self.webpackChunkdev_docs||[]).push([[4127],{1391:e=>{e.exports=JSON.parse('{"label":"setup","permalink":"/garden/tags/setup","allTagsPath":"/garden/tags","count":1,"items":[{"id":"setup","title":"Setup","description":"Gears","permalink":"/garden/setup"}],"unlisted":false}')}}]);
