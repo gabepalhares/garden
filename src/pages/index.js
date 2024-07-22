@@ -16,7 +16,9 @@ const Home = () => {
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className='container'>
           <h1 className='hero__title'>
-            <div>🏛️</div>
+            <div>
+              <img src="img/favicon.ico" alt="Favicon" />
+            </div>
             <div className={styles.hiddenText} aria-hidden='true'>
               g.arden
             </div>
