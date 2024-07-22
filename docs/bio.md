@@ -1,4 +1,5 @@
 ---
+sidebar_position: 2
 id: bio
 title: Bio
 tags:
