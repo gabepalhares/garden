@@ -4,7 +4,7 @@ const darkCodeTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 export default {
-  title: 'garden',
+  title: 'g.arden',
   tagline: `where I keep everything I study and learn`,
   url: 'https://gabrielpalhares.dev/',
   baseUrl: '/garden/',
@@ -22,9 +22,9 @@ export default {
   ],
   themeConfig: {
     navbar: {
-      title: 'Palhares Zettelkasten',
+      title: 'Zettelkasten',
       logo: {
-        alt: 'Palhares Zettelkasten',
+        alt: 'Zettelkasten',
         src: 'img/favicon.ico',
       },
       items: [
