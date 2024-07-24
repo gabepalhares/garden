@@ -12,7 +12,7 @@ const Home = () => {
   const context = useDocusaurusContext();
   const { siteConfig = {} } = context;
   return (
-    <Layout description='palhares knowledge database'>
+    <Layout description='Palhares Zettelkasten'>
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className='container'>
           <h1 className='hero__title'>

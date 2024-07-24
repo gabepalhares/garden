@@ -22,4 +22,26 @@
     height: 200px;
     width: 200px;
   }
-  
+
+@media scren and (max-width: 430px) {
+  .heroBanner {
+      padding: 14rem 0;
+      margin: 0;
+      background-color: #6699CC;
+  }
+}
+
+@media screen and (max-width: 414px) {
+  .heroBanner {
+      padding: 12rem 0;
+      margin: 0;
+      background-color: #6699CC;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .heroBanner {
+      padding: 6rem 0;
+      margin: 0;
+  }
+}

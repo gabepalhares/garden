@@ -4,7 +4,6 @@ id: bio
 title: Bio
 tags:
   - bio
-  - myself
 ---
 
 ## About
@@ -15,16 +14,15 @@ When I'm not coding, you'll find me enjoying `football`, `mountain biking` and l
 
 Interests:
 - Site Reliability Engineering
-- DevOps
 - Lean startup
 - Fintechs and payment solutions
+- DevOps
 
 Skills:
 - Javascript
 - Typescript
 - React - Next.js
 - TailwindCSS
-- Material UI
 - Node.js - Nest.js
 - Go
 - PostgreSQL
