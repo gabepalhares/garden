@@ -7,24 +7,30 @@ tags:
   - notes
 ---
 
-## Study Guide
+## Resources
 
 - [TeachYourselfCS](https://teachyourselfcs.com/)
+- [UBL](https://github.com/Universidade-Livre/ciencia-da-computacao)
 
 ### Intro
 - [ ] Harvard Cs50 - Introduction to Computer Science
+- [ ] Programming Languages
 - [ ] Mathematical Foundations for Computing
-- [ ] Algorithms and Data Structures
 - [ ] Statistics and Probability
 - [ ] Computer Architecture I
+
 ### Technical Development
+- [ ] Algorithms and Data Structures
 - [ ] Databases
-- [ ] Computer Architecture II
 - [ ] Linear Algebra
+- [ ] Computer Architecture II
+
 ### Theoretical Development
-- [ ] Calc I
 - [ ] Graph Theory
+- [ ] Calc I
+- [ ] Calc II
 - [ ] Distributed Systems
+
 ### Final Topics
 - [ ] Data structure
 - [ ] Computing Paradigms
