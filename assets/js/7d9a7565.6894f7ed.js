@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_docs=self.webpackChunkdev_docs||[]).push([[5209],{5259:e=>{e.exports=JSON.parse('{"label":"resources","permalink":"/garden/tags/resources","allTagsPath":"/garden/tags","count":1,"items":[{"id":"go/go-resources","title":"Resources","description":"Learning materials","permalink":"/garden/go/go-resources"}],"unlisted":false}')}}]);
