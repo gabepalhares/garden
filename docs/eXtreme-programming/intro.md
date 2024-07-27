@@ -18,4 +18,9 @@ XP brings a set of values, principles, and, most importantly, practices that mak
 
 **Values: Communication, Simplicity, Feedback, Courage, and Respect.**
 
-<img src="/static/img/extreme-programming.png" />
+<img
+  src="https://github.com/minortypo/garden/blob/gh-pages/img/extreme-programming.png?raw=true"
+  alt="XP Planning, Feedback Loops"
+  height="450"
+  width="450"
+/>

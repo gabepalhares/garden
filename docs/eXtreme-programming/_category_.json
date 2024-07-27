@@ -5,9 +5,9 @@
   "className": "red",
   "link": {
     "type": "generated-index",
-    "title": "XP Fundamentals" 
+    "title": "eXtreme Programming" 
   },
   "customProps": {
-    "description": "eXtreme Programming Fundamentals"
+    "description": "eXtreme Programming Content"
   }
 }
