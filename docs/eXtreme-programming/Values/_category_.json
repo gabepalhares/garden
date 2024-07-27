@@ -1,0 +1,13 @@
+{
+  "label": "Values",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "XP Fundamentals" 
+  },
+  "customProps": {
+    "description": "eXtreme Programming Values"
+  }
+}
