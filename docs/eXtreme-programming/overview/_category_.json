@@ -1,0 +1,13 @@
+{
+  "label": "Overview",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "XP Overview" 
+  },
+  "customProps": {
+    "description": "eXtreme Programming Overview"
+  }
+}
