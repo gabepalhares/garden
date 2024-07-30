@@ -1,0 +1,13 @@
+{
+  "label": "Planning",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "XP Planning" 
+  },
+  "customProps": {
+    "description": "eXtreme Programming Planning"
+  }
+}
