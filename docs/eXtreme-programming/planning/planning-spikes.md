@@ -2,7 +2,7 @@
 id: xp-planning-spikes
 title: Planning Spikes
 tags:
-  - Planning Spikes
+  - XP-Planning
   - eXtreme Programming
 ---
 

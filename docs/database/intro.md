@@ -1,5 +1,5 @@
 ---
-id: intro
+id: databases-introduction
 title: Intro 
 tags:
   - Databases

@@ -1,6 +1,6 @@
 ---
 id: xp-communication
-title: Communicaton
+title: Communication
 tags:
   - Values
   - eXtreme Programming

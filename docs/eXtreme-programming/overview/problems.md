@@ -2,7 +2,7 @@
 id: xp-problems
 title: Problems
 tags:
-  - Problems
+  - XP-Overview
   - eXtreme Programming
 ---
 

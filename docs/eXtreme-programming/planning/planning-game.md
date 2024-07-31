@@ -2,7 +2,7 @@
 id: xp-planning-game
 title: Planning Game
 tags:
-  - Planning Game
+  - XP-Planning
   - Planning Poker
   - eXtreme Programming
 ---

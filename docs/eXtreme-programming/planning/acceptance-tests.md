@@ -2,8 +2,7 @@
 id: xp-acceptance-tests
 title: Acceptance Tests
 tags:
-  - Acceptance Tests
-  - Validation
+  - XP-Planning
   - eXtreme Programming
 ---
 

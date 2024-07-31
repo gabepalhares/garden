@@ -2,7 +2,7 @@
 id: xp-small-deliveries
 title: Small Deliveries
 tags:
-  - Small Deliveries
+  - XP-Planning
   - eXtreme Programming
 ---
 

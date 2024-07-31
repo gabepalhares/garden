@@ -2,7 +2,7 @@
 id: xp-history
 title: History
 tags:
-  - History
+  - XP-Overview
   - eXtreme Programming
 ---
 

@@ -3,7 +3,7 @@ id: xp-user-stories
 title: User Stories
 tags:
   - User Stories
-  - Agile
+  - XP-Planning
   - eXtreme Programming
 ---
 
