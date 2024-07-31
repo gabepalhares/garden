@@ -1,0 +1,13 @@
+{
+  "label": "Management and Project",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Management and Project" 
+  },
+  "customProps": {
+    "description": "eXtreme Programming - Management and Project"
+  }
+}
