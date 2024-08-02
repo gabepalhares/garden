@@ -7,7 +7,7 @@ tags:
 ---
 
 ### Gears
-- PC Custom: **Intel i7-7700, GPU GTX 1080, 16gb RAM, SSD NVME 256gb, HD 1TB**
+- PC Custom: **Intel i7-7700, GPU GTX 1080, 16gb RAM, SSD M2 NVME 256gb, HD 1TB**
 - Monitor - [Asus 27" IPS FHD 144hz](https://www.asus.com/br/displays-desktops/monitors/gaming/vg279q/)
 - Articulated Monitor Stand - [ELG F80N](https://elg.com.br/produto/solucoes-inteligentes/suportes/suporte-articulado-de-mesa-com-pistao-a-gas-para-monitor-de-17-a-35-f80n.html)
 - Monitor Light Bar -  [Baseus](https://a.co/d/bsAJtDR)
@@ -26,9 +26,10 @@ tags:
 - Wood Organizer - [Geniodesk](https://www.geniodesks.com.br/acessorios/organizador-linha-art)
 
 ### Future upgrades
+- SSD 1TB - [Kingston Fury M.2 NVMe](https://www.kabum.com.br/produto/272356)
+- Macbook Pro M3 18gb
 - Keyboard - [Logitech MX Mechanical Mini](https://www.logitech.com/pt-br/products/keyboards/mx-mechanical-mini.920-010783.html)
-- Teca wood wrist rest - [Geniodesk](https://www.geniodesks.com.br/apoio-de-punho-linha-art)
+- Wrist rest - [Custom-Made Teca Wood](https://www.geniodesks.com.br/apoio-de-punho-linha-art)
 - Headset - [Sony xm5](https://a.co/d/1caryz3)
 - Earbuds - [Apple Airpods Pro 2](https://www.apple.com/br/airpods-pro/)
 - Audio monitor - [Edifier R1280DBs](https://edifier.com.br/monitor-de-audio-edifier-r1280dbs-42w-rms-saida-subwoofer.html)
-- Macbook Pro M1 16gb, or Macbook Air M3 16gb
