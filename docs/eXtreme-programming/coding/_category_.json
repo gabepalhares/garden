@@ -1,0 +1,13 @@
+{
+  "label": "Coding",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Coding" 
+  },
+  "customProps": {
+    "description": "eXtreme Programming - Coding"
+  }
+}
