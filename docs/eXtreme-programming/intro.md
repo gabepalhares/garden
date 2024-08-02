@@ -14,7 +14,7 @@ tags:
 
 **Practical Concept:** It is an agile methodology, and basically, the idea of XP is to provide the necessary tools and teach how to use them for software development while adapting to changes very smoothly. This aligns with one of the points of the [Agile Manifesto](https://agilemanifesto.org/), which emphasizes adapting to changes over following a plan.
 
-XP brings a set of values, principles, and, most importantly, practices that make the development process, and programming itself, much more effective and efficient by adapting more easily to changes while maintaining software development quality.
+**XP brings** a set of values, principles, and, most importantly, practices that make the development process, and programming itself, much more effective and efficient by adapting more easily to changes while maintaining software development quality.
 
 **Values: Communication, Simplicity, Feedback, Courage, and Respect.**
 

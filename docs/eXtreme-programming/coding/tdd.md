@@ -1,6 +1,6 @@
 ---
-id: xp-refactoring
-title: TDD - Test-Driven Development
+id: xp-tdd
+title: Test-Driven Development - TDD
 tags:
   - TDD
   - Tests
