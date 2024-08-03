@@ -23,8 +23,7 @@ Skills:
 - Typescript
 - React - Next.js
 - Node.js
-- C#
-- .NET Core
+- Go
 - PostgreSQL
 - SQLite
 - Jest
