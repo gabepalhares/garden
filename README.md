@@ -1,17 +1,3 @@
-# Thoughts and Ideas
+## g.arden
 
-Watch the repo to get new content
-
-## How to run
-
-Install dependencies
-
-```bash
-  yarn
-```
-
-Start the server
-
-```bash
-  yarn start
-```
+This is my Zettelkaste, my database on the web.
