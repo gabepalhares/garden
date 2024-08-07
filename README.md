@@ -1,3 +1,3 @@
 ## g.arden
 
-This is my Zettelkaste, my database on the web.
+This is my Zettelkasten, my database on the web.
