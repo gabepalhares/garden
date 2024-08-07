@@ -8,8 +8,6 @@ tags:
 
 import Embed from '../../src/Embed';
 
-## Programming fundamentals
-
 - Variables
 - Data structures
 - Functions
