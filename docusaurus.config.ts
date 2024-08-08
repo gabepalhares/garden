@@ -78,7 +78,7 @@ export default {
           showLastUpdateTime: true,
           routeBasePath: '/',
           path: './docs',
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve('./sidebars.ts'),
           editCurrentVersion: false,
           remarkPlugins: [require('mdx-mermaid')],
         },
