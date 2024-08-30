@@ -44,13 +44,13 @@ export default {
           position: 'right',
         },
         {
-          label: 'LinkedIn',
-          href: 'https://www.linkedin.com/in/minortypo/',
+          label: 'X',
+          href: 'https://x.com/minortypo',
           position: 'right',
         },
         {
-          label: 'Twitter',
-          href: 'https://twitter.com/minortypo',
+          label: 'LinkedIn',
+          href: 'https://www.linkedin.com/in/minortypo/',
           position: 'right',
         },
       ],
