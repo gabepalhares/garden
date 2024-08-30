@@ -7,6 +7,9 @@ tags:
 
 Project ideas to build
 
-- [ ] mtb ecommmerce
-- [ ] gumroad pix
+- [x] mtb ecommmerce
+- [ ] woovi frontend challenge
+- [ ] woovi fullstack challenge
 - [ ] discord CI/CD bot
+- [ ] gumroad pix
+- [ ] crud with go
