@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 id: short-intro
 title: Intro
 tags:
