@@ -8,11 +8,14 @@ tags:
 ---
 
 <div style={{ display: 'flex', marginBottom: '2rem', justifyContent: 'center', alignItems: 'center' }}>
-  <img width="140" height="130" src="img/shiba-round.png" loading="lazy" style={{marginRight: '1.5rem'}} />
-  <img width="140" height="130" src="img/gabriel-round.png" loading="" />
+  <img width="140" height="130" src="img/shiba-round.png" style={{marginRight: '1.5rem'}} />
 </div>
 
-Hi, welcome to my `database!` My name is `Gabriel Palhares`, also known as <a href="https://twitter.com/minortypo" target="_blank">minortypo</a>. You might have seen me online with my Shiba profile pic — `I just love Shibas!` I actively engage in the concept of <a href="https://www.swyx.io/learn-in-public/" target="_blank">Learn in Public</a> by sharing my knowledge through articles and code. This webpage is one of my ways of doing that. `g.arden` was created based on the `Zettelkasten` idea, inspired by <a href="https://twitter.com/sseraphini" target="_blank">Sibelius</a> and <a href="https://twitter.com/biantris_" target="_blank">Biantris</a> and their versions. My aim is to consistently update this space with everything I'm studying, learning, and developing.
+Hi, welcome to my `Zettelkasten!` My name is `Gabriel Palhares`, also known as <a href="https://twitter.com/minortypo" target="_blank">minortypo</a>. You might have seen this Shiba profile pic somewhere — it's just that `I love Shibas` and wanted to make them part of my personal brand!
+
+I actively engage in the concept of <a href="https://www.swyx.io/learn-in-public/" target="_blank">Learn in Public</a> by sharing my knowledge through articles and code. This webpage is one of my ways of doing that.
+
+`g.arden` was created, inspired by <a href="https://twitter.com/sseraphini" target="_blank">Sibelius</a> and <a href="https://twitter.com/biantris_" target="_blank">Biantris</a>. After seeing their amazing versions, I wanted a space like theirs — a second brain on the web. My goal is to consistently update this space with everything I'm studying, learning, and coding.
 
 #### Linkroll
 - <a href="https://gabrielpalhares.dev/" target="_blank">Webpage</a>
