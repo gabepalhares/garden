@@ -7,7 +7,7 @@ tags:
 ---
 
 ### Gears
-- PC Custom: **Intel i7-7700, GPU GTX 1080, 16gb RAM, SSD M2 NVME 256gb, HD 1TB**
+- Custom PC: **Intel i7-7700, GPU GTX 1080, 16gb RAM, SSD M2 NVME 256gb, HD 1TB**
 - Monitor - [Asus 27" IPS FHD 144hz](https://www.asus.com/br/displays-desktops/monitors/gaming/vg279q/)
 - Second Monitor - [Asus 24" IPS FHD 75hz](https://www.asus.com/br/displays-desktops/monitors/eye-care/va24ehe/)
 - Monitor Stand - 2x [ELG F80N](https://elg.com.br/produto/solucoes-inteligentes/suportes/suporte-articulado-de-mesa-com-pistao-a-gas-para-monitor-de-17-a-35-f80n.html)
@@ -28,7 +28,7 @@ tags:
 
 ### Future upgrades
 - SSD 1TB - [Kingston Fury M.2 NVMe](https://www.kabum.com.br/produto/272356)
-- Macbook Pro M3 18gb
+- Macbook Pro M1 16gb or M3 18gb
 - Keyboard - [Logitech MX Mechanical Mini](https://www.logitech.com/pt-br/products/keyboards/mx-mechanical-mini.920-010783.html)
 - Wrist rest - [Geniodesk Art](https://www.geniodesks.com.br/apoio-de-punho-linha-art)
 - Headset - [Sony xm5](https://a.co/d/1caryz3)
