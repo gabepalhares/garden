@@ -13,8 +13,8 @@ tags:
 - [UBL](https://github.com/Universidade-Livre/ciencia-da-computacao)
 
 ### Intro
-- [ ] Harvard Cs50 - Introduction to Computer Science
-- [ ] Programming Languages
+- [x] Harvard Cs50 - Introduction to Computer Science
+- [x] Programming Languages
 - [ ] Mathematical Foundations for Computing
 - [ ] Statistics and Probability
 - [ ] Computer Architecture I
