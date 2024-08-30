@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 id: learning-path-react
 title: 'Learning Path'
 tags:
@@ -10,8 +11,8 @@ tags:
 
 ### Learning Path - React
 
- - [ ] What is React props?
- - [ ] What is React state?
+ - [x] What is React props?
+ - [x] What is React state?
  - [ ] Unidirectional data flow
  - [ ] How to create a React component
  - [ ] React hooks (useState, useEffect, and other basics ones)
