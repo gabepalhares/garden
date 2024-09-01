@@ -44,8 +44,8 @@ export default {
           position: 'right',
         },
         {
-          label: 'X',
-          href: 'https://x.com/minortypo',
+          label: 'Bluesky',
+          href: 'https://bsky.app/profile/minortypo.social',
           position: 'right',
         },
         {
