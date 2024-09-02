@@ -48,11 +48,6 @@ export default {
           href: 'https://bsky.app/profile/minortypo.social',
           position: 'right',
         },
-        {
-          label: 'LinkedIn',
-          href: 'https://www.linkedin.com/in/minortypo/',
-          position: 'right',
-        },
       ],
     },
     colorMode: {
