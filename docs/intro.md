@@ -21,4 +21,4 @@ I actively engage in the concept of <a href="https://www.swyx.io/learn-in-public
 - <a href="https://gabrielpalhares.dev/" target="_blank">Webpage</a>
 - <a href="https://github.com/minortypo" target="_blank">Github</a>
 
-Feel free to connect with me via <a href="https://www.linkedin.com/in/minortypo/" target="_blank">LinkedIn</a> or reach out to me on my professional email: hi@gabrielpalhares.dev
+Feel free to reach out to me at my professional email: hi@gabrielpalhares.dev
