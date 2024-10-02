@@ -11,7 +11,7 @@ export default {
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'minortypo', // Usually your GitHub org/user name.
+  organizationName: 'gabepalhares', // Usually your GitHub org/user name.
   projectName: 'garden', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
