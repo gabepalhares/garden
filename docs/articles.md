@@ -10,4 +10,4 @@ tags:
 
 ---
 
-- <a href="https://dev.to/minortypo" target="_blank" class="font-bold">Dev.to</a>
+- <a href="https://dev.to/gabepalhares" target="_blank" class="font-bold">Dev.to</a>
