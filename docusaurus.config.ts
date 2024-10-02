@@ -35,12 +35,12 @@ export default {
         },
         {
           label: 'Dev.to',
-          href: 'https://dev.to/minortypo',
+          href: 'https://dev.to/gabepalhares',
           position: 'right',
         },
         {
           label: 'Github',
-          href: 'https://github.com/minortypo/garden',
+          href: 'https://github.com/gabepalhares/garden',
           position: 'right',
         },
         {
