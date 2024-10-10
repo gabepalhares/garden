@@ -45,7 +45,7 @@ export default {
         },
         {
           label: 'X',
-          href: 'https://x.com/minortypo',
+          href: 'https://x.com/gabepalhares',
           position: 'right',
         },
       ],
