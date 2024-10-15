@@ -11,7 +11,7 @@ tags:
   <img width="140" height="130" src="img/shiba-round.png" style={{marginRight: '1.5rem'}} />
 </div>
 
-Hi, welcome to my `Zettelkasten!` My name is <a href="https://bsky.app/profile/minortypo.social" target="_blank">Gabriel</a>, also known as `Palhares`. You might have seen this Shiba profile pic somewhere — it's just that `I love Shibas` and wanted to make them part of my personal brand!
+Hi, welcome to my `Zettelkasten!` My name is <a href="https://x.com/gabepalhares" target="_blank">Gabriel</a>, also known as `Palhares`. You might have seen this Shiba profile pic somewhere — it's just that `I love Shibas` and wanted to make them part of my personal brand!
 
 I actively engage in the concept of <a href="https://www.swyx.io/learn-in-public/" target="_blank">Learn in Public</a> by sharing my knowledge through articles and code. This webpage is one of my ways of doing that.
 

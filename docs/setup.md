@@ -27,10 +27,8 @@ tags:
 - Wood Organizer - [Geniodesk Art](https://www.geniodesks.com.br/acessorios/organizador-linha-art)
 
 ### Future upgrades
-- SSD 1TB - [Kingston Fury M.2 NVMe](https://www.kabum.com.br/produto/272356)
 - Macbook Pro M1 16gb or M3 18gb
 - Keyboard - [Logitech MX Mechanical Mini](https://www.logitech.com/pt-br/products/keyboards/mx-mechanical-mini.920-010783.html)
 - Wrist rest - [Geniodesk Art](https://www.geniodesks.com.br/apoio-de-punho-linha-art)
 - Headset - [Sony xm5](https://a.co/d/1caryz3)
 - Earbuds - [Apple Airpods Pro 2](https://www.apple.com/br/airpods-pro/)
-- Audio monitor - [Edifier R1280DBs](https://edifier.com.br/monitor-de-audio-edifier-r1280dbs-42w-rms-saida-subwoofer.html)
